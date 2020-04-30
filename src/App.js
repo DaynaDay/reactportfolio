@@ -1,9 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/Jumbotron';
+
 
 function App() {
-  return <h1>Portfolio</h1>
+
+  return <Header />
+
    
 }
 
