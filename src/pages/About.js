@@ -1,12 +1,15 @@
 import React from "react";
 import Navbar from "../components/NavBar";
+import AboutImage from "../components/Image";
 
 function About() {
   return (
 
     <>
+
     <Navbar/>
     <h2>My Story</h2>
+    <AboutImage />
     <p>
       My name is Dayna Knight and I am writing regarding the Administrative Assistant within your company. Having
       discussed the job description, I believe my six years of customer service experience will make me a great addition
