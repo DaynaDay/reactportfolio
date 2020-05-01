@@ -1,14 +1,13 @@
 import React from "react";
 
+
 function Jumbotron() {
   return (
-    <div className="container">
-      <div className="jumbotron">
-        <h1>Hello, world!</h1>
-        </div>
-      </div>
-
-  )
+    <div className="jumbotron">
+      <h1>Dayna Knight</h1>
+      
+    </div>
+  );
 }
 
 export default Jumbotron;
